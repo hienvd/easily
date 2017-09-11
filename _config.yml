@@ -39,6 +39,12 @@ plugins:
     disqus_shortname: your-disqus-name
     google_analytics: your-ga-code
 
+comments:
+    facebook:
+        appid:
+        comment_count: 5
+        comment_colorscheme: light
+
 # Miscellaneous
 miscellaneous:
     open_graph: # see http://ogp.me
