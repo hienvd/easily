@@ -1,0 +1,48 @@
+nav:
+  About: /about/
+bottom_nav:
+  Home: /
+  About: /about/
+  Friends: your-friend-blog-url
+
+customize:
+    gravatar:
+        email:
+    logo:
+        enabled: true
+        width: 50
+        height: 50
+        url: /images/easily.png
+        gravatar: false
+    favicon:
+      desktop:
+        url: /images/favicon.ico
+        gravatar: false
+      android:
+        url: /images/favicon-192x192.png
+        gravator: false
+      apple:
+        url: /images/apple-touch-icon.png
+        gravator: false
+    social_links:
+        twitter: your-twitter-url
+        facebook: your-facebook-url
+    show_all_posts: true
+    post_count: 5
+    highlight: monokai
+
+# RSS
+rss: false
+
+# Plugins
+plugins:
+    disqus_shortname: your-disqus-name
+    google_analytics: your-ga-code
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
